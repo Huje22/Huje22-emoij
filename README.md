@@ -3,7 +3,7 @@ This repository contains font used in minecraft bedrock (from Huje22 server pack
 
 ## See this!!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IndianBartonka&repo=ostag&theme=radical)](https://github.com/IndianBartonka/OsTag)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IndianBartonka&repo=ostag)](https://github.com/IndianBartonka/OsTag)
 
 ## Google translator: 
 To repozytorium zawiera czcionkę używaną w minecraft bedrock (z pakietu serwera Huje22) do tworzenia emotikonów, niektóre emotikony pobrane z pakietu „Unicode Logos” https://mcpedl.com/unicode-logos-pack/
